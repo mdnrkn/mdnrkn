@@ -4,6 +4,6 @@ window.onload = function () {
       "You need a larger screen to see the content, please upgrade your device :)"
     );
   } else {
-    alert("As-salamu alaykum / Hello👋");
+    alert("As-salamu alaykum / Hello 👋");
   }
 };
