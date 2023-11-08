@@ -5,24 +5,15 @@
 ###
 
 <div align="center">
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Linkedin logo"  />
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877f2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Facebook logo" />
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Youtube logo"  />
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Instagram logo" />
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=%2324292e&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="GitHub logo"/>
-  </a>
-  <a href="" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Gmail logo"  />
-  </a>
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mdnrkn/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdnrkn/)
+[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@mdnrkn/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mdnrkn/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdnrkn/)
+[![Website](https://img.shields.io/badge/-Website-4CAF50?style=flat&logo=google-chrome&logoColor=white&link=https://example.com)](#)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mdnishatraihankhan@gmail.com)
+
 </div>
 
 <div align="center">
@@ -31,4 +22,27 @@
 
 ###
 
-<h1 align="center">As-salamu alaykum / hello 👋</h1>
+<h4 align="center">As-salamu alaykum / hello 👋</h3>
+
+## I'm Md. Nishat Raihan Khan Nijhum
+
+_An Undergraduate CS Student, AIUB_
+
+### 🏠 Living : Dhaka, Bangladesh
+
+### About Me
+
+### Employment History :
+| Position        | Institute | Duration            | Location   |
+| --------------- | --------- | ------------------- | ---------- |
+| Content Creator | YouTube   | Nov 2023 - Present  | Bangladesh |
+
+
+### Education :
+
+- _B.Sc in Computer Science and Engineering\
+  American International University Bangladesh_
+
+### Languages :
+* __Bangla__ : Native
+* __English__ : Advanced
