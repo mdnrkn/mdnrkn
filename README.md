@@ -29,7 +29,7 @@
 _An Undergraduate CS Student, AIUB_\
 🏠 Living : Dhaka, Bangladesh
 
-### About Me :
+<!-- ### About Me : -->
 
 ### Employment History :
 
@@ -46,5 +46,3 @@ _An Undergraduate CS Student, AIUB_\
 
 - **Bangla** : Native
 - **English** : Advanced
-
-
