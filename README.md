@@ -53,9 +53,9 @@ _An Undergraduate CS Student, AIUB_\
 
 ### Employment History :
 
-| Position        | Institute | Duration           | Location   |
-| --------------- | --------- | ------------------ | ---------- |
-| Content Creator | YouTube   | Nov 2023 - Present | Bangladesh |
+| Position        | Institute | Duration           | Location          |
+| --------------- | --------- | ------------------ | ----------------- |
+| Content Creator | YouTube   | Nov 2023 - Present | Dhaka, Bangladesh |
 
 ### Education :
 
