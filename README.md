@@ -6,13 +6,33 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mdnrkn/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdnrkn/)
-[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@mdnrkn/)
-[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mdnrkn/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mdnrkn/)
-[![Website](https://img.shields.io/badge/-Website-4CAF50?style=flat&logo=google-chrome&logoColor=white&link=https://example.com)](#)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mdnishatraihankhan@gmail.com)
+<a href="https://www.facebook.com/mdnrkn/" target="_blank">
+  <img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="https://www.linkedin.com/in/mdnrkn/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.youtube.com/@mdnrkn/" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
+</a>
+
+<a href="https://www.instagram.com/mdnrkn/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://github.com/mdnrkn/" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/-Website-4CAF50?style=flat&logo=google-chrome&logoColor=white" alt="Website">
+</a>
+
+<a href="mailto:mdnishatraihankhan@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 </div>
 
@@ -37,8 +57,7 @@ _An Undergraduate CS Student, AIUB_\
 | Position        | Institute | Duration           | Location   |
 | --------------- | --------- | ------------------ | ---------- |
 | Content Creator | YouTube   | Nov 2023 - Present | Bangladesh |
- -->
- 
+
 ### Education :
 
 - _B.Sc in Computer Science and Engineering\
