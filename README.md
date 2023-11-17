@@ -31,12 +31,14 @@ _An Undergraduate CS Student, AIUB_\
 
 <!-- ### About Me : -->
 
+<!-- 
 ### Employment History :
 
 | Position        | Institute | Duration           | Location   |
 | --------------- | --------- | ------------------ | ---------- |
 | Content Creator | YouTube   | Nov 2023 - Present | Bangladesh |
-
+ -->
+ 
 ### Education :
 
 - _B.Sc in Computer Science and Engineering\
