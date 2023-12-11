@@ -51,20 +51,25 @@ _An Undergraduate CS Student, AIUB_\
 
 <!-- ### About Me : -->
 
-<!-- 
+<!--
 ### Employment History :
 
 | Position        | Institute | Duration           | Location   |
 | --------------- | --------- | ------------------ | ---------- |
 | Content Creator | YouTube   | Nov 2023 - Present | Bangladesh |
  -->
- 
+
 ### Education :
 
 - _B.Sc in Computer Science and Engineering\
-  American International University Bangladesh_
+  American International University Bangladesh\
+  (September, 2023 - Present)_
 
 ### Languages :
 
 - **Bangla** : Native
 - **English** : Advanced
+
+### 🎯 Goals :
+
+- **2024** : To solve 500+ problems and participate in ICPC
