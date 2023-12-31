@@ -72,4 +72,10 @@ _An Undergraduate CS Student, AIUB_\
 
 ### 🎯 Goals :
 
-- **2024** : To solve 500+ problems and participate in ICPC
+<details>
+   <summary> 2024 </summary>
+   • To solve 1000+ problems and participate in ICPC Dhaka Regional <br>
+   • Read at least 12 books <br>
+   • To become healthier and more fit <br>
+   and finally, make myself happier 🙂
+</details>
