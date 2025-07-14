@@ -1,16 +1,15 @@
-## Hi there 👋
+<p align="center" style="font-size:24px;">
+  Hi!<br>
+  I'm Md. Nishat Raihan Khan Nijhum
+</p>
 
-<!--
-**mdnrkn/mdnrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=24&pause=500&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Engineer;Growing+with+Every+Line+of+Code" alt="Typing SVG">
+  </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24">
+</p>
