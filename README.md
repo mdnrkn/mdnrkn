@@ -1,6 +1,8 @@
-<p align="center" style="font-size:24px;">
-  Hi!<br>
-  I'm Md. Nishat Raihan Khan Nijhum
+<p align="center" style="font-size:32px;">
+  <b>
+    Hi!<br>
+    I'm Md. Nishat Raihan Khan Nijhum
+  </b>
 </p>
 
 <p align="center">
