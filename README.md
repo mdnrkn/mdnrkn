@@ -1,9 +1,7 @@
-<p align="center" style="font-size:64px;">
-  <b>
-    Hi!<br>
-    I'm Md. Nishat Raihan Khan Nijhum
-  </b>
-</p>
+<h2 align="center">
+  Hi!<br>
+  I'm Md. Nishat Raihan Khan Nijhum
+</h2>
 
 <p align="center">
   <a href="#">
