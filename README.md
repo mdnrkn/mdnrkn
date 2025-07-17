@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="mailto:mdnishatraihankhan@gmail.com" target="_blank" style="margin-right:12px;">
+<!-- <a href="mailto:mdnishatraihankhan@gmail.com" target="_blank" style="margin-right:12px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="26" height="26" style="vertical-align:middle; margin-right:12px;"/>
 </a>
 <a href="https://www.linkedin.com/in/mdnrkn/" target="_blank" style="margin-right:12px;">
@@ -14,7 +14,18 @@
 </a>
 <a href="https://www.facebook.com/mdnrkn/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="26" height="26" style="vertical-align:middle;"/>
+</a> -->
+
+<a href="mailto:mdnishatraihankhan@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="26" height="26"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mdnrkn/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="26" height="26"/>
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/mdnrkn/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="26" height="26"/>
 </a>
+
 
 <br/>
 <hr/>
