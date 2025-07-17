@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&pause=500&color=FF5733&center=true&vCenter=true&width=435&lines=Hi+There;++I'm+Nijhum+)]()
 
-<span style="font-size:1.5em; font-weight:bold;">
-  An aspiring backend guy, growing with every line of code.
-</span>
+### An aspiring backend guy, growing with every line of code.
 
 <br/>
 
@@ -23,7 +21,7 @@
 
 <hr/>
 
-<span style="font-size:2em; font-weight:bold;">GitHub Analytics</span>
+### GitHub Analytics
 
 <!-- Profile Summary -->
 <img width = "700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnrkn&count_private=true&theme=aura&border_radius=5" alt="GitHub Profile Summary" />
