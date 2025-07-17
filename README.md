@@ -19,6 +19,13 @@
 <br/>
 <hr/>
 
+### ⚒️ Languages • Frameworks • Tools ⚒️
+
+<img src="https://skillicons.dev/icons?i=go,tailwind,git,github,linux,vscode,notion&theme=dark" />
+
+<br/>
+<hr/>
+
 ### GitHub Analytics
 
 <!-- Profile Summary -->
