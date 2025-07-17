@@ -1,9 +1,12 @@
 <div align="center">
 
-<h2>
-  Hi!<br>
-  I'm Md. Nishat Raihan Khan Nijhum
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&pause=500&color=FF5733&center=true&vCenter=true&width=435&lines=Hi+There;++I'm+Nijhum+)]()
+
+<span style="font-size:1.5em; font-weight:bold;">
+  An aspiring backend guy, growing with every line of code.
+</span>
+
+<br/>
 
 <!-- Gmail -->
 <a href="mailto:mdnishatraihankhan@gmail.com" target="_blank">
@@ -18,7 +21,9 @@
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
 </a>
 
-<h2>GitHub Analytics</h2>
+<hr/>
+
+<span style="font-size:2em; font-weight:bold;">GitHub Analytics</span>
 
 <!-- Profile Summary -->
 <img width = "700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdnrkn&count_private=true&theme=aura&border_radius=5" alt="GitHub Profile Summary" />
