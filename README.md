@@ -6,19 +6,17 @@
 
 <br/>
 
-<!-- Gmail -->
-<a href="mailto:mdnishatraihankhan@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<a href="mailto:mdnishatraihankhan@gmail.com" target="_blank" style="margin-right:12px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="26" height="26" style="vertical-align:middle; margin-right:12px;"/>
 </a>
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/mdnrkn/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/mdnrkn/" target="_blank" style="margin-right:12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="26" height="26" style="vertical-align:middle; margin-right:12px;"/>
 </a>
-<!-- Facebook -->
 <a href="https://www.facebook.com/mdnrkn/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="26" height="26" style="vertical-align:middle;"/>
 </a>
 
+<br/>
 <hr/>
 
 ### GitHub Analytics
