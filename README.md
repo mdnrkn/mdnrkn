@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&pause=500&color=FF5733&center=true&vCenter=true&width=435&lines=Hi+There;++I'm+Nijhum+)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&duration=7500&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Nijhum)](https://github.com/mdnrkn)
 
 ### An aspiring backend guy, growing with every line of code.
 
