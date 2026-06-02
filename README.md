@@ -1,9 +1,5 @@
 # Md Nishat Raihan Khan Nijhum
 
-<!-- 
-https://img.shields.io/
--->
-
 [![LinkedIn](https://img.shields.io/badge/Md%20Nishat%20Raihan%20Khan%20Nijhum-blue?style=flat&label=LinkedIn)](https://www.linkedin.com/in/mdnrkn)
 
 An aspiring MLOps and Backend Engineer focused on building scalable, automated, and reliable machine learning systems.
